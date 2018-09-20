@@ -38,6 +38,7 @@ LOCK TABLES `municipios` WRITE;
 
 INSERT INTO `municipios` (`id`, `nombre`, `departamento_id`)
 VALUES
+	(5001,'Medellín', 5),
 	(5002,'Abejorral',5),
 	(5004,'Abriaqui',5),
 	(5021,'Alejandria',5),
